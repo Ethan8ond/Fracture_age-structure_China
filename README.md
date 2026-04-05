@@ -1,2 +1,2 @@
 # Fracture_age-structure_China
-Public repository of anonymized data
+Public repository of UBMI and CNFS data
